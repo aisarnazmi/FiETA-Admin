@@ -1,4 +1,5 @@
 # UiTM Final Exam Timetable Fetcher
+Credit to: https://github.com/afzafri
 Fetch the final exam timetable. Simplify your work, since the timetable provided by UiTM is quite crowded.
 
 Official website for this project: https://www.uitmtimetable.com/finalexam
